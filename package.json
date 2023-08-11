@@ -6,7 +6,7 @@
   },
   "devDependencies": {
     "@snowpack/plugin-dotenv": "^2.2.0",
-    "astro": "^0.20.7",
+    "astro": "^2.10.7",
     "daisyui": "^1.16.0",
     "tailwindcss": "^2.2.16"
   }
